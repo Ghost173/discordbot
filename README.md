@@ -39,7 +39,7 @@ npm install --save ytdl-core opusscript
 
 ## screenshots
 
-![screenshots1](/screenshot/b1.png)
+
 ![screenshots2](/screenshot/b2.png)
 ![screenshots3](/screenshot/b3.png)
 ![screenshots4](/screenshot/b4.png)
