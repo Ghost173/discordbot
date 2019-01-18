@@ -1,3 +1,7 @@
+# credits 
+# Dapper Dino 
+# join  Dapper Dino discord [here]( https://discord.gg/sn9xXK4) 
+
 # simple dicord chat bot 
 # create for my school assignment 
 
