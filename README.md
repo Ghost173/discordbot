@@ -7,7 +7,8 @@
 
 ## Requirements 
  * latest version node js  [avalible here](https://nodejs.org/en/)
-
+ * add your token [here](https://github.com/Ghost173/discordbot/blob/master/index.js#L4)  
+ 
 ## Installation
 
 ```
