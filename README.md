@@ -1,12 +1,12 @@
 # credits 
-# Dapper Dino 
+* Dapper Dino 
+
 # join  Dapper Dino discord [here]( https://discord.gg/sn9xXK4) 
 
-## simple dicord chat bot 
-## create for my college task
+## simple dicord chat bot create for my college task
 
 ## Requirements 
- * latest version node js
+ * latest version node js  [avalible here](https://nodejs.org/en/)
 
 ## Installation
 
@@ -18,6 +18,12 @@ npm install --save ytdl-core opusscript
 ```
 
 * create a access token read this [doc](https://discordapp.com/developers/docs/topics/oauth2)
+
+
+## run project
+```
+node .
+```
 
 ## avalible commands 
 
@@ -32,6 +38,8 @@ npm install --save ytdl-core opusscript
 * !newteam
 * !jointeam
 * !info (some emblm code check screenshot4)
+* !addrep  (add reputations)
+* !showrep (show current reputations)
 
 ## known issues 
 
